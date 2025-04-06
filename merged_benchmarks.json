@@ -1,0 +1,362 @@
+{
+  "Xiaomi_Redmi_13C_5G": {
+    "Antutu_CPU": "120180",
+    "Antutu_GPU": "63511",
+    "Antutu_Memory": "88358",
+    "Antutu_Overall": "375663",
+    "Geekbench_SingleCore": "698",
+    "Geekbench_MultiCore": "1903"
+  },
+  "OPPO_Find_X8": {
+    "Antutu_CPU": "395329",
+    "Antutu_GPU": "1197851",
+    "Antutu_Memory": "416949",
+    "Antutu_Overall": "2339136",
+    "Geekbench_SingleCore": "2819",
+    "Geekbench_MultiCore": "8515"
+  },
+  "Motorola_Edge_50_Pro_5G": {
+    "Antutu_CPU": "256493",
+    "Antutu_GPU": "247609",
+    "Antutu_Memory": "156244",
+    "Antutu_Overall": "827231",
+    "Geekbench_SingleCore": "1142",
+    "Geekbench_MultiCore": "3119"
+  },
+  "vivo_V50": {
+    "Antutu_CPU": "265695",
+    "Antutu_GPU": "259798",
+    "Antutu_Memory": "132645",
+    "Antutu_Overall": "818280",
+    "Geekbench_SingleCore": "1141",
+    "Geekbench_MultiCore": "3097"
+  },
+  "Moto_G35": {
+    "Antutu_CPU": "164488",
+    "Antutu_GPU": "80731",
+    "Antutu_Memory": "122741",
+    "Antutu_Overall": "473487",
+    "Geekbench_SingleCore": "744",
+    "Geekbench_MultiCore": "2290"
+  },
+  "Motorola_Razr_50": {
+    "Antutu_CPU": "213038",
+    "Antutu_GPU": "149146",
+    "Antutu_Memory": "132140",
+    "Antutu_Overall": "658590",
+    "Geekbench_SingleCore": "1016",
+    "Geekbench_MultiCore": "2990"
+  },
+  "OPPO_Reno12": {
+    "Antutu_CPU": "N/A",
+    "Antutu_GPU": "N/A",
+    "Antutu_Memory": "N/A",
+    "Antutu_Overall": "671690",
+    "Geekbench_SingleCore": "1049",
+    "Geekbench_MultiCore": "2945"
+  },
+  "realme_P1_Pro_5G": {
+    "Antutu_CPU": "198386",
+    "Antutu_GPU": "96258",
+    "Antutu_Memory": "164348",
+    "Antutu_Overall": "605466",
+    "Geekbench_SingleCore": "929",
+    "Geekbench_MultiCore": "2680"
+  },
+  "Samsung_Galaxy_A54_5G": {
+    "Antutu_CPU": "149920",
+    "Antutu_GPU": "147638",
+    "Antutu_Memory": "85384",
+    "Antutu_Overall": "509330",
+    "Geekbench_SingleCore": "1007",
+    "Geekbench_MultiCore": "2833"
+  },
+  "Samsung_Galaxy_M55_5G": {
+    "Antutu_CPU": "170921",
+    "Antutu_GPU": "171072",
+    "Antutu_Memory": "118937",
+    "Antutu_Overall": "584312",
+    "Geekbench_SingleCore": "1020",
+    "Geekbench_MultiCore": "2529"
+  },
+  "realme_C53": {
+    "Antutu_CPU": "86186",
+    "Antutu_GPU": "28576",
+    "Antutu_Memory": "66951",
+    "Antutu_Overall": "250983",
+    "Geekbench_SingleCore": "420",
+    "Geekbench_MultiCore": "1490"
+  },
+  "Samsung_Galaxy_A16_5G": {
+    "Antutu_CPU": "133426",
+    "Antutu_GPU": "69321",
+    "Antutu_Memory": "93613",
+    "Antutu_Overall": "410402",
+    "Geekbench_SingleCore": "745",
+    "Geekbench_MultiCore": "1976"
+  },
+  "Xiaomi_Redmi_Note_14_Pro+_5G": {
+    "Antutu_CPU": "243081",
+    "Antutu_GPU": "189695",
+    "Antutu_Memory": "122816",
+    "Antutu_Overall": "712313",
+    "Geekbench_SingleCore": "1158",
+    "Geekbench_MultiCore": "3158"
+  },
+  "Moto_G45_5G": {
+    "Antutu_CPU": "157271",
+    "Antutu_GPU": "84067",
+    "Antutu_Memory": "94354",
+    "Antutu_Overall": "449055",
+    "Geekbench_SingleCore": "928",
+    "Geekbench_MultiCore": "2159"
+  },
+  "Motorola_Edge_50": {
+    "Antutu_CPU": "257215",
+    "Antutu_GPU": "163705",
+    "Antutu_Memory": "131652",
+    "Antutu_Overall": "714295",
+    "Geekbench_SingleCore": "1117",
+    "Geekbench_MultiCore": "3048"
+  },
+  "OPPO_Find_X8_Pro": {
+    "Antutu_CPU": "405936",
+    "Antutu_GPU": "1203245",
+    "Antutu_Memory": "415674",
+    "Antutu_Overall": "2336485",
+    "Geekbench_SingleCore": "2177",
+    "Geekbench_MultiCore": "8051"
+  },
+  "vivo_Y200e_5G": {
+    "Antutu_CPU": "150292",
+    "Antutu_GPU": "49131",
+    "Antutu_Memory": "106159",
+    "Antutu_Overall": "419721",
+    "Geekbench_SingleCore": "914",
+    "Geekbench_MultiCore": "1988"
+  },
+  "Xiaomi_Redmi_14C": {
+    "Antutu_CPU": "149342",
+    "Antutu_GPU": "49282",
+    "Antutu_Memory": "126993",
+    "Antutu_Overall": "438871",
+    "Geekbench_SingleCore": "919",
+    "Geekbench_MultiCore": "2206"
+  },
+  "vivo_T1": {
+    "Antutu_CPU": "124016",
+    "Antutu_GPU": "97979",
+    "Antutu_Memory": "71930",
+    "Antutu_Overall": "409989",
+    "Geekbench_SingleCore": "660",
+    "Geekbench_MultiCore": "1947"
+  },
+  "Xiaomi_Redmi_Note_14_5G": {
+    "Antutu_CPU": "147555",
+    "Antutu_GPU": "78384",
+    "Antutu_Memory": "100469",
+    "Antutu_Overall": "457426",
+    "Geekbench_SingleCore": "948",
+    "Geekbench_MultiCore": "2274"
+  },
+  "vivo_X200": {
+    "Antutu_CPU": "588394",
+    "Antutu_GPU": "1134289",
+    "Antutu_Memory": "409244",
+    "Antutu_Overall": "2537181",
+    "Geekbench_SingleCore": "2683",
+    "Geekbench_MultiCore": "7767"
+  },
+  "realme_GT_6": {
+    "Antutu_CPU": "390818",
+    "Antutu_GPU": "519314",
+    "Antutu_Memory": "372553",
+    "Antutu_Overall": "1561973",
+    "Geekbench_SingleCore": "1968",
+    "Geekbench_MultiCore": "5096"
+  },
+  "vivo_V40e": {
+    "Antutu_CPU": "214915",
+    "Antutu_GPU": "147724",
+    "Antutu_Memory": "159968",
+    "Antutu_Overall": "689964",
+    "Geekbench_SingleCore": "967",
+    "Geekbench_MultiCore": "2865"
+  },
+  "Xiaomi_Redmi_Note_13": {
+    "Antutu_CPU": "146923",
+    "Antutu_GPU": "70964",
+    "Antutu_Memory": "116139",
+    "Antutu_Overall": "453830",
+    "Geekbench_SingleCore": "737",
+    "Geekbench_MultiCore": "1905"
+  },
+  "realme_13_Plus_5G": {
+    "Antutu_CPU": "218892",
+    "Antutu_GPU": "148478",
+    "Antutu_Memory": "200850",
+    "Antutu_Overall": "735036",
+    "Geekbench_SingleCore": "1044",
+    "Geekbench_MultiCore": "2958"
+  },
+  "Samsung_Galaxy_M35_5G": {
+    "Antutu_CPU": "194048",
+    "Antutu_GPU": "136164",
+    "Antutu_Memory": "111353",
+    "Antutu_Overall": "599475",
+    "Geekbench_SingleCore": "1001",
+    "Geekbench_MultiCore": "2891"
+  },
+  "realme_GT_6T": {
+    "Antutu_CPU": "367983",
+    "Antutu_GPU": "483640",
+    "Antutu_Memory": "362766",
+    "Antutu_Overall": "1465167",
+    "Geekbench_SingleCore": "1826",
+    "Geekbench_MultiCore": "4544"
+  },
+  "Xiaomi_Redmi_Note_13_Pro": {
+    "Antutu_CPU": "255686",
+    "Antutu_GPU": "575447",
+    "Antutu_Memory": "237834",
+    "Antutu_Overall": "1258345",
+    "Geekbench_SingleCore": "1411",
+    "Geekbench_MultiCore": "5177"
+  },
+  "Xiaomi_Redmi_Note_13_Pro_Plus_5G": {
+    "Antutu_CPU": "207980",
+    "Antutu_GPU": "177688",
+    "Antutu_Memory": "147417",
+    "Antutu_Overall": "698756",
+    "Geekbench_SingleCore": "1127",
+    "Geekbench_MultiCore": "2690"
+  },
+  "Moto_G64": {
+    "Antutu_CPU": "161440",
+    "Antutu_GPU": "78966",
+    "Antutu_Memory": "116384",
+    "Antutu_Overall": "497235",
+    "Geekbench_SingleCore": "1015",
+    "Geekbench_MultiCore": "2469"
+  },
+  "Motorola_Edge_50_Ultra": {
+    "Antutu_CPU": "359335",
+    "Antutu_GPU": "501690",
+    "Antutu_Memory": "329621",
+    "Antutu_Overall": "1444591",
+    "Geekbench_SingleCore": "1944",
+    "Geekbench_MultiCore": "5070"
+  },
+  "Motorola_Edge_50_Fusion": {
+    "Antutu_CPU": "179595",
+    "Antutu_GPU": "119681",
+    "Antutu_Memory": "117081",
+    "Antutu_Overall": "558439",
+    "Geekbench_SingleCore": "1025",
+    "Geekbench_MultiCore": "2721"
+  },
+  "Samsung_Galaxy_A35_5G": {
+    "Antutu_CPU": "200603",
+    "Antutu_GPU": "135534",
+    "Antutu_Memory": "105579",
+    "Antutu_Overall": "594469",
+    "Geekbench_SingleCore": "1021",
+    "Geekbench_MultiCore": "2897"
+  },
+  "Samsung_Galaxy_A55_5G": {
+    "Antutu_CPU": "228454",
+    "Antutu_GPU": "169654",
+    "Antutu_Memory": "139333",
+    "Antutu_Overall": "710635",
+    "Geekbench_SingleCore": "1161",
+    "Geekbench_MultiCore": "3398"
+  },
+  "realme_P1": {
+    "Antutu_CPU": "N/A",
+    "Antutu_GPU": "N/A",
+    "Antutu_Memory": "N/A",
+    "Antutu_Overall": "568006",
+    "Geekbench_SingleCore": "961",
+    "Geekbench_MultiCore": "2247"
+  },
+  "OPPO_F27_Pro_Plus": {
+    "Antutu_CPU": "156769",
+    "Antutu_GPU": "109491",
+    "Antutu_Memory": "134082",
+    "Antutu_Overall": "544538",
+    "Geekbench_SingleCore": "889",
+    "Geekbench_MultiCore": "2326"
+  },
+  "vivo_V40_Pro": {
+    "Antutu_CPU": "402092",
+    "Antutu_GPU": "498004",
+    "Antutu_Memory": "256880",
+    "Antutu_Overall": "1461727",
+    "Geekbench_SingleCore": "1039",
+    "Geekbench_MultiCore": "3460"
+  },
+  "vivo_T3x": {
+    "Antutu_CPU": "194595",
+    "Antutu_GPU": "95529",
+    "Antutu_Memory": "124911",
+    "Antutu_Overall": "549494",
+    "Geekbench_SingleCore": "940",
+    "Geekbench_MultiCore": "2767"
+  },
+  "Motorola_Edge_40": {
+    "Antutu_CPU": "193896",
+    "Antutu_GPU": "164395",
+    "Antutu_Memory": "150405",
+    "Antutu_Overall": "675325",
+    "Geekbench_SingleCore": "1121",
+    "Geekbench_MultiCore": "3631"
+  },
+  "Motorola_Edge_50_Neo": {
+    "Antutu_CPU": "211060",
+    "Antutu_GPU": "147869",
+    "Antutu_Memory": "131175",
+    "Antutu_Overall": "663415",
+    "Geekbench_SingleCore": "1047",
+    "Geekbench_MultiCore": "3033"
+  },
+  "OPPO_Reno10_Pro+_5G": {
+    "Antutu_CPU": "230483",
+    "Antutu_GPU": "484215",
+    "Antutu_Memory": "177370",
+    "Antutu_Overall": "1076839",
+    "Geekbench_SingleCore": "902",
+    "Geekbench_MultiCore": "3400"
+  },
+  "Xiaomi_14_Civi": {
+    "Antutu_CPU": "N/A",
+    "Antutu_GPU": "N/A",
+    "Antutu_Memory": "N/A",
+    "Antutu_Overall": "1355861",
+    "Geekbench_SingleCore": "1903",
+    "Geekbench_MultiCore": "4816"
+  },
+  "realme_12x": {
+    "Antutu_CPU": "137283",
+    "Antutu_GPU": "61739",
+    "Antutu_Memory": "103560",
+    "Antutu_Overall": "418175",
+    "Geekbench_SingleCore": "732",
+    "Geekbench_MultiCore": "1950"
+  },
+  "Samsung_Galaxy_F15": {
+    "Antutu_CPU": "131283",
+    "Antutu_GPU": "62538",
+    "Antutu_Memory": "83327",
+    "Antutu_Overall": "376075",
+    "Geekbench_SingleCore": "690",
+    "Geekbench_MultiCore": "1752"
+  },
+  "Xiaomi_Redmi_13_5G": {
+    "Antutu_CPU": "156595",
+    "Antutu_GPU": "51546",
+    "Antutu_Memory": "110443",
+    "Antutu_Overall": "441939",
+    "Geekbench_SingleCore": "964",
+    "Geekbench_MultiCore": "2247"
+  }
+}
